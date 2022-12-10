@@ -1,2 +1,4 @@
 # Deep-Learning-Lab-Mid-Exam
-This repository includes mid term exam of deep learning lab performed by me on 9/12/2020. This was a mid term exam in which my performance was exceptional in my class.
+This repository includes mid term exam of deep learning lab performed by me on 9/12/2020.
+The model made during exam couldn't reach a good accuracy due to shortage of time so I will try to improve my model accuracy.
+
